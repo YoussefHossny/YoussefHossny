@@ -11,7 +11,7 @@ SQL (PostgreSQL) · Python (Pandas, NumPy) · Excel · Power BI · Tableau
 
 ## Currently open to
 Junior Data Analyst / BI Analyst roles in Egypt or remote.
-📧 Youssefhosny261@gmail.com · [LinkedIn]((https://www.linkedin.com/in/youssef-ahmed-hosny/))
+📧 Youssefhosny261@gmail.com · [LinkedIn](https://www.linkedin.com/in/youssef-ahmed-hosny/)
 
 <!--
 **YoussefHossny/YoussefHossny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
