@@ -1,5 +1,5 @@
 # Hi, I'm Youssef 👋
-Junior Data Analyst (BIS graduate, Cairo) turning messy data into clear answers.
+Data Analyst (BIS graduate, Cairo) turning messy data into clear answers.
 
 ## What I work with
 SQL (PostgreSQL) · Python (Pandas, NumPy) · Excel · Power BI · Tableau
