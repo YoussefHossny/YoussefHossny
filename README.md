@@ -10,7 +10,7 @@ SQL (PostgreSQL) · Python (Pandas, NumPy) · Excel · Power BI · Tableau
 
 
 ## Currently open to
-Junior Data Analyst / BI Analyst roles in Egypt, the Gulf, or remote.
+Junior Data Analyst / BI Analyst roles in Egypt or remote.
 📧 Youssefhosny261@gmail.com · [LinkedIn]([your-link](https://www.linkedin.com/in/youssef-ahmed-hosny/))
 
 <!--
