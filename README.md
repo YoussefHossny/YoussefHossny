@@ -5,8 +5,8 @@ Junior Data Analyst (BIS graduate, Cairo) turning messy data into clear answers.
 SQL (PostgreSQL) · Python (Pandas, NumPy) · Excel · Power BI · Tableau
 
 ## Projects
-- **[Excel Salary Dashboard]((https://github.com/YoussefHossny/Excel-salary-dashboard))**: interactive dashboard with dynamic formulas and dropdowns
-- **[SQL Job Market Analysis]((https://github.com/YoussefHossny/SQL-job-market-analysis))**: which skills pay most and are most in demand
+- **[Excel Salary Dashboard](https://github.com/YoussefHossny/Excel-salary-dashboard)**: interactive dashboard with dynamic formulas and dropdowns
+- **[SQL Job Market Analysis](https://github.com/YoussefHossny/SQL-job-market-analysis)**: which skills pay most and are most in demand
 
 
 ## Currently open to
